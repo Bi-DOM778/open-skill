@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Scope Guard"
+  short_description: "Review architecture scope and proportional risk"
+  default_prompt: "Use $architecture-scope-guard to challenge unnecessary architecture, classify current effects proportionally, and explain the minimum safe approach."
